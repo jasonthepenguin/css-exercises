@@ -1,0 +1,16 @@
+/* styles.css */
+
+/* we want a red background,
+    white text, 
+    font size 32px,
+    center aligned,
+    bold
+*/
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+}
+
