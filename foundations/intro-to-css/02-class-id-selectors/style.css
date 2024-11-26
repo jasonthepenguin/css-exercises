@@ -1,0 +1,30 @@
+
+
+.even {
+    background-color: rgb(95, 227, 113);
+}
+
+.odd{
+    background-color: rgb(250, 102, 150);
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+.normal-font{
+    font-size: 24px;
+}
+
+.large-font{
+    font-size: 36px;
+}
+
+.bold-text{
+    font-weight: 700;
+}
+
+#num-2 {
+    color: rgb(0, 0, 255); /* blue rgb */
+    
+}
+
+
+
